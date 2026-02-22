@@ -1,0 +1,13 @@
+.git
+.env
+__pycache__
+*.pyc
+.vscode
+.venv
+venv
+node_modules
+*.log
+.gemini
+.agent
+brain
+CORTEX_TOKEN
